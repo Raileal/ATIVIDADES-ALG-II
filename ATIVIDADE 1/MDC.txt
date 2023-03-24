@@ -1,0 +1,3 @@
+De acordo com os programas executados, conclui-se que o algoritmo de Euclides é mais vantajoso que o Trivial, pois repete menos vezes para se obter o mesmo resultado.
+Foi colocado os numeros 12 e 18 para analise, em ambas o resultado foi 6, mais o de Euclides repetiu 4 e o Trivial repetiu 12. Colocando os numeros primos 13 e 17 ambas obtiveram
+como resultado 1, mas o de Euclides foi superior em tempo de processo.(5,16); Euclides 5// Trivial 16;;
